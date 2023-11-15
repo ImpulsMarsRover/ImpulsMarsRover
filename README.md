@@ -2,7 +2,12 @@
 - 👀 I’m interested in robotics, building mars rovers and creating technology of the future
 - 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on robotics, electronics and future technology
-- 📫 How to reach me impuls.rover.team@gmail.com @impulsmarsrover https://www.youtube.com/channel/UCLmI_tA2I-fQiD_JL-QNzww/videos
+- 📫 How to reach me
+  - Website: https://impulsmarsrover.github.io/website/
+  - Mail: impuls.rover.team@gmail.com
+  - Instagram: @impulsmarsrover
+  - Facebook: https://www.facebook.com/marsroverkielce
+  - YouTube: https://www.youtube.com/channel/UCLmI_tA2I-fQiD_JL-QNzww/videos
 
 
 <!---
